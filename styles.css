@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+Body{
+    background-color:#BBCCF8;
+    }
+p{
+    text-align:center;
+    Font-family:'Baloo+Bhaijaan';color:maroon;
+    Font-size:30px;
+    }
+marquee{
+    Font-family:'Bungee';color:maroon;
+    }
+h1{
+  Font-family:'Oswald';color:maroon;
+  text-align:center;
+  }
+h3{
+    Font-family:'Bungee';color:maroon;
+    text-align:center;
+    }
+h2{
+    Font-family:'Bungee';color:maroon;
+    }
+ol{
+    background-image: linear-gradient(red, yellow, green);
+    Font-family:'Anton';
+    }
+    a{
+    Font-family:'Bungee';}
